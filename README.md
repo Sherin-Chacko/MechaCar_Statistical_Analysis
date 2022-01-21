@@ -29,4 +29,8 @@ From the output shown above, we can summarize the following:
 
 
 ### DELIVERABLE 3 : T-TESTS ON SUSPENSION COILS
+Summary of the t-test results across all manufacturing lots:
+
+
+
 
