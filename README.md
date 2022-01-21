@@ -28,5 +28,5 @@ From the output shown above, we can summarize the following:
 2. Individually, Lot 1 and Lot 2 are well within the 100 PSI variance requirement; with variances of 0.98 and 7.47 respectively. However, it is Lot 3 that is showing much larger variance in performance and consistency, with a variance of 170.29. Therefore, the current manufacturing data does not meet the design specification for Lot 3 as observed in the table above.
 
 
-
+### DELIVERABLE 3 : T-TESTS ON SUSPENSION COILS
 
