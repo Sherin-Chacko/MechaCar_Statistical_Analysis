@@ -46,7 +46,10 @@ B) SUMMARY OF T-TESTS FOR EACH INDIVIDUAL LOTS:
 <img width="548" alt="Screen Shot 2022-01-21 at 3 13 18 PM" src="https://user-images.githubusercontent.com/91294352/150594840-9e96f627-96ef-4c85-9b92-079fdfe324b9.png">
 
 
-3. However, Lot 3 has an different scenario. Here the sample mean is 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05.
+3. However, Lot 3 has an different scenario. Here the sample mean is 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05. The production cycle of Lot 3 is improper. The process needs to be checked for system failure and the suspension coils from this lot need to be inspected to remove those not meeting quality criteria.  
+
+<img width="430" alt="Screen Shot 2022-01-21 at 3 14 16 PM" src="https://user-images.githubusercontent.com/91294352/150595175-85b0274b-7035-49d5-8026-e2a8a3bc3452.png">
+
 
 
 
