@@ -54,6 +54,23 @@ The production cycle of Lot 3 is improper. The process needs to be checked for s
 
 ### DELIVERABLE 4 : STUDY DESIGN MechaCar vs COMPETITION
 
+# Metrics
+The following metrics can be considered:
+
+Current Price: Dependent Variable
+Safety Feature Rating: Independent Variable
+Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+MPG (Gasoline Efficiency): Independent Variable
+Selling price: Dependent varaible
+
+# Hypothesis: Null and Alternative
+After determining which factors are key for the MechaCar's category:
+
+Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its category.
+Alternative Hypothesis (Ha): MechaCar is not priced correctly based on performance of key factors for its category.
+
+# Statistical Tests
+A multiple linear regression would be used to determine the factors that have the predictability with the list selling price (dependent variable), which combination has the greatest impact on price.
 
 
 
