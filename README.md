@@ -29,20 +29,24 @@ From the output shown above, we can summarize the following:
 
 
 ### DELIVERABLE 3 : T-TESTS ON SUSPENSION COILS
-Summary of the t-test results across all manufacturing lots:
+A) Summary of the t-test results across all manufacturing lots:
 
 <img width="503" alt="Screen Shot 2022-01-21 at 3 09 06 PM" src="https://user-images.githubusercontent.com/91294352/150594149-77749a73-b7e0-4b52-b308-114321c80986.png">
 
 We can see above that the mean of the sample is 1498.78. With a p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. 
 
-SUMMARY OF T-TESTS FOR EACH INDIVIDUAL LOTS:
+B) SUMMARY OF T-TESTS FOR EACH INDIVIDUAL LOTS:
 
 1. Lot 1 sample actually has the true sample mean of 1500, again as we saw in the summary statistics above. With a p-Value of 1, clearly we cannot reject (i.e. accept) the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean (1500).
 
 <img width="548" alt="Screen Shot 2022-01-21 at 3 13 18 PM" src="https://user-images.githubusercontent.com/91294352/150594840-9e96f627-96ef-4c85-9b92-079fdfe324b9.png">
 
-3. Lot 2 has essentially the same outcome with a sample mean of 1500.02, a p-Value of 0.61; the null hypothesis cannot be rejected, and the sample mean and the population mean of 1500 are statistically similar.
-4. However, Lot 3 has an unusual scenario. Here the sample mean is 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05.
+2. Lot 2 has essentially the same outcome with a sample mean of 1500.02, a p-Value of 0.61; the null hypothesis cannot be rejected, and the sample mean and the population mean of 1500 are statistically similar.
+
+<img width="548" alt="Screen Shot 2022-01-21 at 3 13 18 PM" src="https://user-images.githubusercontent.com/91294352/150594840-9e96f627-96ef-4c85-9b92-079fdfe324b9.png">
+
+
+3. However, Lot 3 has an different scenario. Here the sample mean is 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05.
 
 
 
