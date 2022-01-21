@@ -15,5 +15,6 @@ From the output shown above, we can summarize the following:
 
 2. The p-Value: 5.35e-11 for this model is much smaller than the assumed significance level of 0.05%. This indicates there is sufficient evidence to reject our null hypothesis, which further indicates that the slope of this linear model is not zero.
 
-3. This linear model has an r-squared value of 0.7149, which means that 71% of all mpg predictions will be determined by this model. This multiple regression model does predict mpg of MechaCar prototypes effectively.
+3. This linear model has an r-squared value of 0.7149, which means that 71% of all mpg predictions will be determined by this model. This linear regression model does predict mpg of MechaCar prototypes effectively.
 
+### DELIVERABLE 2 : SUMMARY STATISTICS ON SUSPENSION COILS
