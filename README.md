@@ -67,6 +67,7 @@ Selling price: Dependent varaible
 After determining which factors are key for the MechaCar's category:
 
 Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its category.
+
 Alternative Hypothesis (Ha): MechaCar is not priced correctly based on performance of key factors for its category.
 
 ### Statistical Tests
