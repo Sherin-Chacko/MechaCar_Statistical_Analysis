@@ -58,9 +58,13 @@ The production cycle of Lot 3 is improper. The process needs to be checked for s
 The following metrics can be considered:
 
 Current Price: Dependent Variable
+
 Safety Feature Rating: Independent Variable
+
 Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+
 MPG (Gasoline Efficiency): Independent Variable
+
 Selling price: Dependent varaible
 
 ### Hypothesis: Null and Alternative
