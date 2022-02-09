@@ -1,5 +1,8 @@
 ## MechaCar_Statistical_Analysis
-## PURPOSE: The purpose of this analysis is to:
+AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called the data analytics team to review the production data for insights that may help the manufacturing team.
+
+## PURPOSE: 
+The purpose of this analysis is to:
 
 1) Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg (miles per gallon) of MechaCar prototypes
 2) Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
@@ -68,22 +71,22 @@ The production cycle of Lot 3 is improper. The process needs to be checked for s
 ### Metrics
 The following metrics can be considered:
 
-Current Price: Dependent Variable
+    Current Price: Dependent Variable
 
-Safety Feature Rating: Independent Variable
+    Safety Feature Rating: Independent Variable
 
-Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+    Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
 
-MPG (Gasoline Efficiency): Independent Variable
+    MPG (Gasoline Efficiency): Independent Variable
 
-Selling price: Dependent varaible
+    Selling price: Dependent varaible
 
 ### Hypothesis: Null and Alternative
 After determining which factors are key for the MechaCar's category:
 
-Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its category.
+    Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its category.
 
-Alternative Hypothesis (Ha): MechaCar is not priced correctly based on performance of key factors for its category.
+    Alternative Hypothesis (Ha): MechaCar is not priced correctly based on performance of key factors for its category.
 
 ### Statistical Tests
 A multiple linear regression would be used to determine the factors that have the predictability with the list selling price (dependent variable), which combination has the greatest impact on price.
